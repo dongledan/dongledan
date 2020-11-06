@@ -38,12 +38,12 @@
 
 ```javascript
 const danny = {
-  pronouns: [ "he", "him", "his" ],
+  pronouns: "he/him/his",
   currentLocation: "Queens, New York",
   languages: [ Javascript, HTML5, CSS3 ],
   frontend: [ React, Redux ],
   backend: [ Node.js, PostgreSQL ],
-  frameworks: [ React Native, Bootstrap, Express.js ],
+  frameworks: [ React Native, Bootstrap, MaterialUI, Express.js ],
   interests: [ "hiking", "baseball", "buffets", "powerlifting" ]
 }
 ```
