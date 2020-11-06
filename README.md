@@ -10,7 +10,7 @@
 <a href="https://www.linkedin.com/in/d-li/">
   <img align="left" alt ="Danny's LinkedIn" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-1.svg" />
 </a>
-<a href="https://github.com/joshlmao">
+<a href="https://github.com/dongledan">
   <img align="left" alt="Danny's Github" width="22px" src="https://cdn.worldvectorlogo.com/logos/github-icon.svg" />
 </a>
 <a href="https://www.strava.com/athletes/12361634">
@@ -20,7 +20,7 @@
 <br />
 
 
-### Get to know me
+### Get to know me 👇
 
 ```javascript
 const danny = {
