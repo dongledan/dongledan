@@ -7,6 +7,9 @@
 <h1>Hi 👋，I'm <a href="https://dannyboy.dev/">Danny</a> and currently listening to...</h1>
 </p>
 
+[![HitCount](http://hits.dwyl.com/dongledan/https://githubcom/dongledan/dongledan.svg)](http://hits.dwyl.com/dongledan/https://githubcom/dongledan/dongledan)
+
+
 <a href="https://www.linkedin.com/in/d-li/">
   <img align="left" alt ="Danny's LinkedIn" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-1.svg" />
 </a>
