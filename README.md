@@ -7,7 +7,7 @@
 <h1>Hi 👋，I'm <a href="https://dannyboy.dev/">Danny</a> and currently listening to...</h1>
 </p>
 
-[![HitCount](http://hits.dwyl.com/dongledan/dongledan.svg)](http://hits.dwyl.com/dongledan/dongledan)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=dongledan.dongledan)
 
 
 <a href="https://www.linkedin.com/in/d-li/">
