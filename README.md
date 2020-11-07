@@ -40,11 +40,22 @@
 const danny = {
   pronouns: "he/him/his",
   currentLocation: "Queens, New York",
-  languages: [ Javascript, HTML5, CSS3 ],
-  frontend: [ React, Redux ],
-  backend: [ Node.js, PostgreSQL ],
-  frameworks: [ React Native, Bootstrap, MaterialUI, Express.js ],
-  interests: [ "hiking", "baseball", "buffets", "powerlifting" ]
+  code: "javascript",
+  technologies: {
+      mobile: [ "react native", "expo", "seo" ],
+      frontend: [
+         js: [ "react", "redux" ],
+         css: [ "boostrap", "material-ui", "sass" ]
+      ],
+      backend: [
+         js: [ "node.js", "express.js" ] 
+      ],
+      database: "postgresql",
+      misc: [ "firebase", "sequelize", "git", "google vision" ]
+      
+  },
+  architecture: [ "single page applications", "progressive web apps" ],
+  askMeAbout: [ "web dev", "mobile tech", "powerlifting", "hiking", "baseball", "indie music" ],
 }
 ```
 
