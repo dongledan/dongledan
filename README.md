@@ -3,8 +3,8 @@
     <img src="https://natemoo-re-omega.vercel.app/now-playing" width="256" height="64" alt="Now Playing" align="right"></img>
   </a>
 </p>
-<p align="center">
-<h1>Hi 👋，I'm <a href="https://dannyboy.dev/">Danny</a> and currently listening to...</h1>
+<p align="left">
+<h2>Hiya 👋，I'm <a href="https://dannyboy.dev/">Danny</a> and currently listening to...</h2>
 </p>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=dongledan.dongledan)
