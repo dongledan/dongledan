@@ -55,7 +55,7 @@ const danny = {
       
   },
   architecture: [ "single page applications", "progressive web apps" ],
-  askMeAbout: [ "web dev", "mobile tech", "powerlifting", "hiking", "baseball", "indie music" ],
+  askMeAbout: [ "web dev", "mobile tech", "powerlifting", "hiking", "baseball", "indie music" ]
 }
 ```
 
