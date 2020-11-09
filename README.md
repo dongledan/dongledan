@@ -45,7 +45,7 @@ const danny = {
       mobile: [ "react native", "expo", "seo" ],
       frontend: [
          js: [ "react", "redux" ],
-         css: [ "boostrap", "material-ui", "sass" ]
+         css: [ "bootstrap", "material-ui", "sass" ]
       ],
       backend: [
          js: [ "node.js", "express.js" ] 
