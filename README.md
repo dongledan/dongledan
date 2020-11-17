@@ -43,13 +43,13 @@ const danny = {
   code: "javascript",
   technologies: {
       mobile: [ "react native", "expo", "seo" ],
-      frontend: [
+      frontend: {
          js: [ "react", "redux" ],
          css: [ "bootstrap", "material-ui", "sass" ]
-      ],
-      backend: [
+      },
+      backend: {
          js: [ "node.js", "express.js" ] 
-      ],
+      },
       database: "postgresql",
       misc: [ "firebase", "sequelize", "git", "google vision" ]
       
