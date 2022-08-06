@@ -39,8 +39,8 @@
 ```javascript
 const danny = {
   pronouns: "he/him/his",
-  currentLocation: "Queens, New York",
-  code: "javascript",
+  currentLocation: "Scranton, PA",
+  code: "javascript/typescript",
   technologies: {
       mobile: [ "react native", "expo", "seo" ],
       frontend: {
