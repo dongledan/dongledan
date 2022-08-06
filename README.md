@@ -11,22 +11,22 @@
 
 <p>
    <a href="https://www.linkedin.com/in/d-li/">
-     <img align="left" alt ="Danny's LinkedIn" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-1.svg" />
+     <img align="left" alt ="Danny's LinkedIn" width="22px" src="https://user-images.githubusercontent.com/49844313/183264361-50fda10e-52ae-44c5-b19d-e41baedcd7a6.png" />
    </a>
 </p>
 <p>
    <a href="https://github.com/dongledan">
-      <img align="left" alt="Danny's Github" width="22px" src="https://cdn.worldvectorlogo.com/logos/github-icon.svg" />
+      <img align="left" alt="Danny's Github" width="22px" src="https://user-images.githubusercontent.com/49844313/183264380-78311e36-74be-4d9f-8abf-477efda8343d.png" />
    </a>
 </p>
 <p>
    <a href="https://open.spotify.com/user/dan_nyboy">
-     <img align="left" alt="Danny's Spotify" width="22px" src="https://image.flaticon.com/icons/png/512/49/49097.png" />
+     <img align="left" alt="Danny's Spotify" width="22px" src="https://user-images.githubusercontent.com/49844313/183264391-5389a4c4-0909-445f-9b9f-822e0f6abf3d.png" />
    </a>
 </p>
 <p>
    <a href="https://www.strava.com/athletes/12361634">
-      <img align="left" width="22px" alt="Danny's Strava" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/strava-512.png" />
+      <img align="left" width="22px" alt="Danny's Strava" src="https://user-images.githubusercontent.com/49844313/183264399-2a521063-8d91-4a24-a015-806e0d6d49b9.png" />
    </a>
 </p>
 
